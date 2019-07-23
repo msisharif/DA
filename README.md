@@ -9,4 +9,6 @@ A Salesforce android app integrated with ERP Software
 <img src="Screenshots/4.png" width=300 >
 <img src="Screenshots/5.png" width=300 >
 <img src="Screenshots/6.png" width=300 >
+<img src="Screenshots/7.png" width=300 >
+<img src="Screenshots/8.png" width=300 >
 
