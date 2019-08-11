@@ -1,5 +1,5 @@
 # DreamApps
-A Salesforce android app integrated with ERP Software 
+A Sales based android app integrated with ERP Software 
 
 # Screenshots
 
